@@ -1,5 +1,5 @@
 # Learnpython
-#CodeacdemyCode 
+#Codeacdemy
 #BattleShip Game
 
 Description:
